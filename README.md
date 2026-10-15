@@ -6,7 +6,7 @@ My daily practice of programming logic and Python, to keep my fundamentals sharp
 
 | Track           | Solved | Level |
 |-----------------|--------|-------|
-| Python          | 0      | Easy  |
+| Python          | 7      | Easy  |
 | Problem Solving | 0      | Easy  |
 | SQL             | 0      | Basic |
 
