@@ -8,7 +8,7 @@ All challenges, code comments and notes in this repository are in English, so I 
 
 | Track           | Solved | Level |
 |-----------------|--------|-------|
-| Python          | 8      | Easy  |
+| Python          | 9      | Easy  |
 | Problem Solving | 0      | Easy  |
 | SQL             | 0      | Basic |
 
